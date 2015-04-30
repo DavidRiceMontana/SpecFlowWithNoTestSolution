@@ -1,0 +1,12 @@
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\bin\Debug\SeniorStudent.AcceptanceTests.dll
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\bin\Debug\SeniorStudent.AcceptanceTests.pdb
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\bin\Debug\SeniorStudent.dll
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\bin\Debug\SeniorStudent.pdb
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\obj\Debug\SeniorStudent.AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\obj\Debug\SeniorStudent.AcceptanceTests.dll
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\obj\Debug\SeniorStudent.AcceptanceTests.pdb
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\bin\Debug\SeniorStudent.AcceptanceTests.dll.config
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\bin\Debug\Should.Fluent.dll
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent.AcceptanceTests\bin\Debug\TechTalk.SpecFlow.dll

@@ -1,0 +1,10 @@
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent\bin\Debug\SeniorStudent.dll
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent\bin\Debug\SeniorStudent.pdb
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent\obj\Debug\SeniorStudent.csprojResolveAssemblyReference.cache
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent\obj\Debug\SeniorStudent.dll
+C:\Users\c46q812\Documents\TestBed\testing\Visual Studio testing\SpecFlowExample\SeniorStudent\SeniorStudent\obj\Debug\SeniorStudent.pdb
+C:\Users\c46q812\Documents\GitHub\SpecFlowWithNoTestSolution\SeniorStudentNoTests\SeniorStudent\bin\Debug\SeniorStudent.dll
+C:\Users\c46q812\Documents\GitHub\SpecFlowWithNoTestSolution\SeniorStudentNoTests\SeniorStudent\bin\Debug\SeniorStudent.pdb
+C:\Users\c46q812\Documents\GitHub\SpecFlowWithNoTestSolution\SeniorStudentNoTests\SeniorStudent\obj\Debug\SeniorStudent.csprojResolveAssemblyReference.cache
+C:\Users\c46q812\Documents\GitHub\SpecFlowWithNoTestSolution\SeniorStudentNoTests\SeniorStudent\obj\Debug\SeniorStudent.dll
+C:\Users\c46q812\Documents\GitHub\SpecFlowWithNoTestSolution\SeniorStudentNoTests\SeniorStudent\obj\Debug\SeniorStudent.pdb
